@@ -4,7 +4,7 @@ A simple command-line chatbot built in Python that uses dictionary-based pattern
 
 ## 📌 Project Information
 - **Project:** Rule-Based Chatbot
-- **Internship:** Decode Elab
+- **Internship:** Decode labs
 - **Role:** AI Intern
 - **Status:** In Progress
 - **Language:** Python
@@ -67,7 +67,7 @@ This is a rule-based chatbot — it matches exact predefined phrases only. It do
 
 ## 👤 Author
 **Ismail** — BS AI Student, UET Lahore
-Intern at Decode Elab
+Intern at Decode labs
 
 ---
 
