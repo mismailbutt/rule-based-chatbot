@@ -1,6 +1,6 @@
 # Rule-Based Chatbot 🤖
 
-A simple command-line chatbot built in Python that uses dictionary-based pattern matching to respond to predefined user queries. Built as part of my AI Internship at **Decode Elab**.
+A simple command-line chatbot built in Python that uses dictionary-based pattern matching to respond to predefined user queries. Built as part of my AI Internship at **Decode Labs**.
 
 ## 📌 Project Information
 - **Project:** Rule-Based Chatbot
@@ -12,7 +12,7 @@ A simple command-line chatbot built in Python that uses dictionary-based pattern
 ---
 
 ## 📖 About
-This project is part of my AI Internship at Decode Elab. The goal of this project is to learn how a rule-based chatbot works by building it from scratch using Python — using dictionary-based pattern matching rather than machine learning or NLP.
+This project is part of my AI Internship at Decode Labs. The goal of this project is to learn how a rule-based chatbot works by building it from scratch using Python — using dictionary-based pattern matching rather than machine learning or NLP.
 
 As the project progresses, this repository will be updated with new features, documentation, and improvements.
 
